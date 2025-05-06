@@ -70,12 +70,12 @@ var gdjs;(function(n){let a;(function(r){class s{constructor(e,t,i){this._linkEl
           -webkit-transition-duration: ${this._fadeDuration}s;
         }
 
-        #watermark svg.spinning {
+        #watermark  {
           animation-name: spin;
           animation-direction: normal;
-          animation-duration: 5s;
-          animation-iteration-count: 3;
-          animation-delay: 1.5s;
+          animation-duration: 0s;
+          animation-iteration-count: 0;
+          animation-delay: 0s;
         }
 
         #watermark svg path {
