@@ -203,7 +203,7 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.IntroCode.mapOfGDgdjs_9546IntroCode_9546GDTWITTERObjects1Objects, runtimeScene, true, false);
 if (isConditionTrue_0) {
-{gdjs.evtTools.window.openURL("https://x.com/home", runtimeScene);
+{gdjs.evtTools.window.openURL("https://x.com/stickrunner_sol", runtimeScene);
 }}
 
 }
